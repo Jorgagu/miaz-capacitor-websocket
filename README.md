@@ -2,8 +2,8 @@
 
 Basic, cross-platform native websocket implementation for Capacitor/Ionic.
 
-- iOS/Swift implmentation uses [StarScream](/https://github.com/daltoniam/Starscream)
-- Android/Java uses [NV/NeoVisionaries Websocket Client](/https://github.com/TakahikoKawasaki/nv-websocket-client)
+- iOS/Swift implmentation uses [StarScream](https://github.com/daltoniam/Starscream)
+- Android/Java uses [NV/NeoVisionaries Websocket Client](https://github.com/TakahikoKawasaki/nv-websocket-client)
 - Web implementation uses web native websockets
 
 ## Install
